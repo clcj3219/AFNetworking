@@ -1,3 +1,4 @@
+添加隐私清单，无其他修改
 # AFNetworking is Deprecated
 
 As of Jan. 17, 2023, AFNetworking is deprecated and there will be no further releases. This repo will remain online in perpetuity as an archive. There are a couple options for continued AFNetworking use:
